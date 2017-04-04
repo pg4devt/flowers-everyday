@@ -4,27 +4,26 @@ php and mysql database/table
 
 web hosting options
 ------------
-1. herokuapp.com -- requires credit card info to install clearDB. requires git-scm
-https://zenbooks.herokuapp.com/
+1. https://infinityfree.net/
+
+  rfgd_19901759/ETfsPOoE
+  pg4devt@gmail.com/InfinityFree
 
 2. 000webhost.com -- can design your website, security issues when uploading files
-https://zenbooks.000webhostapp.com/
+  https://zenbooks.000webhostapp.com/
 
-zenreviews.000webhostapp.com
-#cDqff*VOOKs*Hi!!hw#
+  zenreviews.000webhostapp.com
+  #cDqff*VOOKs*Hi!!hw#
 
 3. wix.com -- same with 000webhost.com features, you can select different web designs
-aj4devt.wixsite.com/zenbooks
+  aj4devt.wixsite.com/zenbooks
 
-Adding Wix Ratings
-http://rating-widget.com/get/rating/#
-http://rating-widget.com/blog/how-to-add-a-star-rating-system-to-wix-in-5-minutes/
+  Adding Wix Ratings
+  http://rating-widget.com/get/rating/#
+  http://rating-widget.com/blog/how-to-add-a-star-rating-system-to-wix-in-5-minutes/
 
-flowerseveryday.host-ed.me
+  flowerseveryday.host-ed.me
 
-4. https://infinityfree.net/
-
-rfgd_19901759/ETfsPOoE
-
-pg4devt@gmail.com/InfinityFree
+4. herokuapp.com -- requires credit card info to install clearDB. requires git-scm
+  https://zenbooks.herokuapp.com/
 
