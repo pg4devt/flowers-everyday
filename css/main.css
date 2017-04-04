@@ -1,0 +1,31 @@
+#background-image{
+    position: relative;
+    padding: 0;
+    margin:  10;
+    overflow: hidden;
+    height: 500px;        
+    background-image: url(../img/banner2.jpg);
+    background-repeat: no-repeat;
+    background-size: auto 600px;
+    background-position: top center;
+
+}
+
+#images{
+    width: auto;
+    height: 200px;
+}
+
+<<<<<<< HEAD
+#quantity{
+  margin-left: -15px;
+}
+
+#quantity-label{
+  margin-left: -15px;
+=======
+#footer{
+	margin-top: 50px;
+	
+>>>>>>> 1bc8d56c07416db317ed15e36280e797fdf39ca6
+}
