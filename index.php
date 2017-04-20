@@ -18,7 +18,6 @@ include 'dbConfig.php';
     <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
     <script src="js/ie-emulation-modes-warning.js"></script>
-
     <link href="css/carousel.css" rel="stylesheet">
   </head>
 
